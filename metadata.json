@@ -1,0 +1,6 @@
+{
+  "name": "BrightStart",
+  "description": "School Management System and AI Assistant for Teachers and Administrators",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
